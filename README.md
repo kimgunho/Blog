@@ -1,1 +1,1 @@
-# My Blog (feat: gatsby)
+# My Blog

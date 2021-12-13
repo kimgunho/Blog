@@ -1,7 +1,7 @@
 {
   "name": "My Blog",
   "private": false,
-  "description": "",
+  "description": "기록해 가기 위한 블로그",
   "version": "2.0.0",
   "author": "yuyukgh <yuyukgh@naver.com>",
   "dependencies": {

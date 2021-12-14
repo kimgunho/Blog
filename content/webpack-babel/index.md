@@ -1,9 +1,9 @@
 ---
 emoji: ✍️
-title: [JS] 환경 설정 - webpack, babel
+title: JS 환경 설정 - webpack, babel
 date: '2021-11-02 15:00:00'
 author: me
-tags: webpack babel 
+tags: webpack babel
 categories: webpack babel
 ---
 

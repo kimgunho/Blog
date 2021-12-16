@@ -64,7 +64,7 @@ shouldComponentUpdate : boolean값을 통하여 리랜더링 결정의 여부를
 
 만약 false라면 사이클을 마칩니다. -> 업데이트 호출 -> 랜더링의 순입니다.
 
-### Update :
+### unmount :
 
 컴포넌트를 DOM에서 제거할 때 호출하는 메소드입니다.
 

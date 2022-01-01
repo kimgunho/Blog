@@ -1,7 +1,7 @@
 ---
 emoji: ✍️
 title: 인터뷰 대비 질문사항 정리
-date: '20211. 121. 29 18:00:00'
+date: '2021-12-29 18:00:00'
 author: me
 tags: 면접
 categories: 면접
